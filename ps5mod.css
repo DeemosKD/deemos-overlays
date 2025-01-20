@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://imgur.com/1EVkCdT.png);
+    background: url(White_SkinNo_Buttons.png);
     height: 700px;
     width: 1200px;
     /*    margin-left: -403px;
@@ -22,7 +22,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://imgur.com/fo4uaLr.png);
+    background: url(Trigger_Pressed.png);
     opacity: 0;
 }
 
@@ -38,7 +38,7 @@
 .ds4 .bumper {
     width: 200px;
     height: 45px;
-    background: url(https://imgur.com/lkXphXb.png) no-repeat;
+    background: url(Bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -110,7 +110,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://imgur.com/w2ESThZ.png);
+    background: url(Start.png);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/5wDiYeg.png);
+    background: url(FaceButtons.png);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://imgur.com/c8C25y5.png);
+    background: url(Sticks.png);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://imgur.com/4yMtFZk.png);
+    background: url(Dpad.png);
     position: absolute;
 }
 
@@ -279,7 +279,7 @@ background-position: 0 -70px;
 /*END PS4 Controller Styling*/
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://imgur.com/bMsJyV3.png);
+    background-image: url(Select.png);
     width: 26px;
     height: 43px;
 }
